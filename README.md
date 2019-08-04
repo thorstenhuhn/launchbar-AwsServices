@@ -25,5 +25,5 @@ Set alternative browser from clipboard - allows you to configure a second browse
 
 The action provides a list of service groups corresponding to the ones provided by AWS on the AWS console home page. You can either navigate through the groups or enter an abbreviation of the service you already know the name, e.g. `cf` will likely immediately offer the CloudFormation home page.
 
-*Hint*: due to frequent changes at the AWS console site, the list of services is currently downloaded from a gist. Feel free to try the "Update Services List" _Settings_ item to check for updates or contact me in case of missing services.
+*Hint*: due to frequent changes at the AWS console site, the list of services is not generated just-in-time but retrieved from a gist and cached afterwards. Feel free to try the "Update Services List" _Settings_ item to check for updates or contact me in case of missing services.
 
